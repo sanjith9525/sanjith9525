@@ -25,6 +25,7 @@ I build production AI systems — from LLM-powered agents to scalable backend ar
 | [**multi-agent-portfolio-manager**](https://github.com/sanjith9525/multi-agent-portfolio-manager) | Multi-agent system for investment portfolio analysis | Python, LangChain |
 | [**audio-coach-ai**](https://github.com/sanjith9525/audio-coach-ai) | AI-powered audio coaching assistant | Python |
 | [**zerodha-mcp**](https://github.com/sanjith9525/zerodha-mcp) | MCP server for Zerodha Kite trading APIs | Python |
+| [**ai-code-reviewer**](https://github.com/sanjith9525/ai-code-reviewer) | LLM-powered code review agent with line-by-line feedback | Python, FastAPI, LiteLLM |
 | [**splitwise-go**](https://github.com/sanjith9525/splitwise-go) | Expense splitting service | Go |
 
 ## 📊 Stats
@@ -45,7 +46,7 @@ I build production AI systems — from LLM-powered agents to scalable backend ar
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjith-edwin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjith-edwin-977a19133/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjith9525@gmail.com)
 
 ---
