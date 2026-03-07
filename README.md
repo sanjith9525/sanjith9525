@@ -1,6 +1,6 @@
 # Hey, I'm Sanjith 👋
 
-**Senior AI & Backend Engineer** · Abu Dhabi, UAE
+**Tech Lead - AI & Backend** · Abu Dhabi, UAE
 
 I build production AI systems — from LLM-powered agents to scalable backend architectures. Currently leading an AI pod of 8 engineers, designing agentic workflows that process thousands of orders daily.
 
